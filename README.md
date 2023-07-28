@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Caltron.</h1>
+<h1 align="center">Hi 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caltron-xo&label=Profile%20views&color=0e75b6&style=flat" alt="caltron-xo" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
