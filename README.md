@@ -21,9 +21,7 @@
 
 ---
 
-<!-- Optional GitHub stats section -->
-<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caltron-xo&show_icons=false&hide_title=true&theme=graywhite" />
 </p>
--->
+
