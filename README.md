@@ -1,6 +1,6 @@
-<h1 align="center" style="font-weight:lighter">Hi, I’m Rajdeep</h1>
+<h1 align="center" style="font-weight:lighter">Hi</h1>
 
-<p align="center"><i>I love building things that feel creative — like code with a point of view.</i></p>
+<p align="center"><i>This is a portfolio. Or a confession.</i></p>
 
 <br/>
 
