@@ -3,7 +3,6 @@
 
 <p align="center">
   Solo-shipping a creator economy startup out of India.<br/>
-  Previously bootstrapped <a href="#">Feline Babe</a> — a DTC brand, end-to-end.
 </p>
 
 <br/>
@@ -26,9 +25,6 @@
   </a>
   <a href="https://linkedin.com/in/rajdeepsingha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Rajdeep_Singha-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
