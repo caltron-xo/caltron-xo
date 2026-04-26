@@ -1,5 +1,5 @@
 <h1 align="center">Rajdeep Singha</h1>
-<p align="center"><i>Builder. Operator. Occasionally a designer.</i></p>
+<p align="center"><i>this is a portfolio. or a confession.</i></p>
 
 <p align="center">
   Solo-shipping a creator economy startup out of India.<br/>
